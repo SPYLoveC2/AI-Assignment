@@ -1,6 +1,7 @@
 
 # Ignore all files in Task2/base_model
 Task2/base_model/*
+!Task2/base_model/.gitkeep
 
 # Ignore all files in Task2/dataset except prepared_dataset.csv
 Task2/dataset/*
